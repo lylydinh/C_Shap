@@ -21,5 +21,13 @@ namespace ConsoleApplication
             Console.ReadLine();//lenh dung man hinh khi chay chuong trinh
 
         }
+        public static void chuoistring()
+        {
+            string name1;//khoi tao ban dau la null
+            string name2 = "thuy";
+            name1 = "thuththt";//khoi tao luc sau gan cho name1 =""
+            
+    
+        }
     }
 }
